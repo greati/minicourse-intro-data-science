@@ -2,7 +2,7 @@
 
 Introduction to Data Science with Python.
 
-# Parts
+## Parts
 
 1. Pandas basics
 2. Advanced Pandas
